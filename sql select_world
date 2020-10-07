@@ -116,4 +116,3 @@ WHERE name LIKE '%u%'
   and name LIKE '%i%'
   and name LIKE '%e%'
   and name NOT LIKE '% %'
-
